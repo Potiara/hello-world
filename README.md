@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-First learn repository
+First learning repository
